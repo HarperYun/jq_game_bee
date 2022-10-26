@@ -1,1 +1,1 @@
-https://harperyun.github.io/jq_game_bee/index.html
+https://harperyun.github.io/jq_game_bee/
